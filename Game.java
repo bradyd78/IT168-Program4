@@ -10,12 +10,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * IT179 Chutes and Ladders
- *
- * @author <Brady Davidson>
- *
- */
 public class Game
 {
 	// Create Variables
